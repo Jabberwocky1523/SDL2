@@ -5,7 +5,7 @@
 const int SCREEN_WIDTH = 800;
 const int SCREEN_HEIGHT = 600;
 
-int main(int argc, char *argv[])
+int main2(int argc, char *argv[])
 {
     // 初始化 SDL
     if (SDL_Init(SDL_INIT_VIDEO) < 0)
